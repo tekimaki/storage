@@ -7,4 +7,3 @@ $gBitSystem->registerPackageInfo( STORAGE_PKG_NAME, array(
 	'license' => '<a href="http://www.gnu.org/licenses/licenses.html#LGPL">LGPL</a>',
 ) );
 
-?>
