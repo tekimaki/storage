@@ -1,14 +1,10 @@
 ---
 storage: 
   homeable: false
-  required: false
+  required: true
   version: 0.0.0
-  description: >
-    Directory to store information to the
-    file system.
+  description: Directory to store information to the file system.
   license: 
     name: LGPL
-    description: >
-      Licensed under the GNU LESSER GENERAL
-      PUBLIC LICENSE.
+    description: Licensed under the GNU LESSER GENERAL PUBLIC LICENSE.
     url: http://www.gnu.org/copyleft/lesser.html
